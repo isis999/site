@@ -1,8 +1,6 @@
 // Personalize os dados abaixo antes de publicar o site.
 const CONFIG = {
-  // Digite o WhatsApp com código do país e DDD, somente números.
-  // Exemplo: "5511999999999" (substitua pelo número real da clínica).
-  whatsapp: "",
+  whatsapp: "5511952144020",
   mensagem: "Olá! Gostaria de saber mais sobre os atendimentos da Florescer Fisioterapia."
 };
 
